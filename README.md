@@ -29,6 +29,8 @@ Usage: tirun [-w] [-h] [-c (COMMAND...)]
  -c: Specify command to run
 ```
 
+
+
 **Note**: `tirun -w` does not wait for any children of the process you create, and therefore doesn't really work on forking processes.
 
 ## What is TrustedInstaller?
