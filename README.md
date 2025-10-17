@@ -33,6 +33,8 @@ Usage: tirun [-w] [-h] [-c (COMMAND...)]
 
 **Note**: `tirun -w` does not wait for any children of the process you create, and therefore doesn't really work on forking processes.
 
+
+
 ## What is TrustedInstaller?
 
 **TrustedInstaller** is a service in Vista and above Windows operating systems mainly responsible for managing the component store (*WinSxS*). Its most important function is **installing packages and updates**. 
