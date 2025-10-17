@@ -37,6 +37,8 @@ Usage: tirun [-w] [-h] [-c (COMMAND...)]
 
 ## What is TrustedInstaller?
 
+
+
 **TrustedInstaller** is a service in Vista and above Windows operating systems mainly responsible for managing the component store (*WinSxS*). Its most important function is **installing packages and updates**. 
 
 Because of the very high permissions required to be able to **create** and **modify** system files, it is easily the most privileged entity on Windows - second to none but the kernel.
